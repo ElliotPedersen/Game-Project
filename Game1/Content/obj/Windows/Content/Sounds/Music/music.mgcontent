@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ellio/Desktop/Game2/Game1/Content/Sounds/Music/music.wav</SourceFile>
+  <SourceTime>2020-05-18T15:04:43.9934738+02:00</SourceTime>
+  <DestFile>C:/Users/ellio/Desktop/Game2/Game1/Content/bin/Windows/Content/Sounds/Music/music.xnb</DestFile>
+  <DestTime>2020-05-18T18:33:28.6224336+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ellio/Desktop/Game2/Game1/Content/bin/Windows/Content/Sounds/Music/music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

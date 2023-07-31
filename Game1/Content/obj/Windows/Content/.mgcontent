@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/../../../Spelfiler/Sprites/room_four.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Enemies/boss.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Enemies/octorock.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Enemies/rock.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Environment/room_five.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Environment/room_one.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Environment/room_three.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Environment/room_two.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Other/rock.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/attack_down_1.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/attack_left.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/attack_right.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/attack_up.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_dead.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_sprite.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_walking_down_1.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_walking_down_2.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_walking_left.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_walking_up_1.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/player_walking_up_2.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/walking_left_1.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/walking_left_2.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/walking_right_1.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/playerSprites/walking_right_2.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Screens/game_over_screen.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Screens/paused_screen.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Screens/title_screen.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Screens/victory_screen.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Sounds/Misc/hurt.wav</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Sounds/Misc/playerAttack.wav</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Sounds/Music/gameOver.wav</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Sounds/Music/music.wav</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Text/samller_text.spritefont</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/Text/text.spritefont</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/UserInterface/empty_heart_container.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/UserInterface/heart_container.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/UserInterface/item_frame.png</File>
+    <File>C:/Users/ellio/Desktop/Game2/Game1/Content/UserInterface/sword.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Environment/room_four.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Text/smaller_text.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
